@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    color: darkgray;
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
